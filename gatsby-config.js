@@ -31,7 +31,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `GatsbyJS Indonesia`,
         short_name: `GatsbyJS-ID`,
         description: `Komunitas GatsbyJS Indonesia, pembawa perubahan besar untuk Bangsa dan Negara`,
         start_url: `/`,
