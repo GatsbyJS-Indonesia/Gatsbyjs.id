@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Website [GatsbyJS.id](https://gatsbyjs.id/) menggunakan theme dari [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara), dan saat ini masih dalam proses pengembangan 🛠.
+Website [GatsbyJS.id](https://infallible-beaver-29d2cf.netlify.app/) menggunakan theme dari [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara), dan saat ini masih dalam proses pengembangan 🛠.
 
 
 ## ✨ Blog GatsbyJS Indonesia
